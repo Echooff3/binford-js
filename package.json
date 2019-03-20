@@ -1,5 +1,5 @@
 {
-  "name": "binford-js",
+  "name": "@echooff3/binford",
   "version": "0.0.1",
   "description": "Javascript tools with more power!",
   "main": "index.js",
